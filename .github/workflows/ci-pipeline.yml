@@ -11,7 +11,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs ubuntu-latest
 
     steps:
       - name: Checkout repository
